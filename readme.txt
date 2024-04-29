@@ -8,3 +8,5 @@ conflict checking C
 fourth
 
 five
+
+reset
